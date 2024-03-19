@@ -13,7 +13,8 @@ About me: Following my dream, I left digital marketing to enter the world of dev
 
 
 
-            <i class="devicon-html5-plain colored"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
           
 <!--
 **ismapaiva/ismapaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
