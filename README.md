@@ -1,5 +1,13 @@
 # Hi there 👋 I'm Ismael Paiva
+##Full-Stack Developer
+### A brazilian living in Buenos Aires - Argentina
 
+
+🔭 I’m currently looking for a new job
+🌱 I’m currently learning JavaScript, Node.js and React
+👯 I’m looking to collaborate on projects with startups and international companies
+💬 Ask me about HTML5, CSS and JavaScript
+📫 How to reach me: ismael7400@gmail.com
 <!--
 **ismapaiva/ismapaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
