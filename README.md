@@ -12,8 +12,8 @@
 About me: Following my dream, I left digital marketing to enter the world of developing 2 years ago and I left Brazil to live with my wife in Argentina.
 
 ## Conect with Me
+<a href='https://www.linkedin.com/in/ismael-paiva-a325a4179/' target='_blank'><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width='10%'/> </a>
 
-<img href='google.com'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width='10%'/>
           
 
 ## Languages and Tools:
