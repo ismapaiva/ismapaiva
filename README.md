@@ -28,7 +28,7 @@ This shift wasn't just about changing careers; it was about embracing a new life
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width='10%' /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width='10%'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width='10%' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width='10%' /> <img width='10%' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width='10%' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width='10%'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width='10%' />
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/ismapaiva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ismapaiva/ismapaiva/blob/output/github-contribution-grid-snake.svg)
 
           
           
