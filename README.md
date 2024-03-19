@@ -28,11 +28,8 @@ This shift wasn't just about changing careers; it was about embracing a new life
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width='10%' /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width='10%'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width='10%' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width='10%' /> <img width='10%' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width='10%' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width='10%'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width='10%' />
 
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
-<div class="tenor-gif-embed" data-postid="21603734" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/zach-mdx-mandala-exchange-gif-21603734">Zach Mdx Mandala Exchange GIF</a>from <a href="https://tenor.com/search/zach+mdx+mandala+exchange-gifs">Zach Mdx Mandala Exchange GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-          
-          
-          
           
           
           
