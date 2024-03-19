@@ -3,14 +3,10 @@
 ### A brazilian Full-Stack Developer living in Buenos Aires - Argentina
 
 
- 🔭 I’m currently looking for a new job
- <br>
- 🌱 I’m currently learning JavaScript, Node.js, React and Svelte at the Alura Plataform
- <br>
+ * 🔭 I’m currently looking for a new job
+ * 🌱 I’m currently learning JavaScript, Node.js, React and Svelte at the Alura Plataform
  👯 I’m looking to collaborate on projects with startups and international companies
- <br>
  💬 Ask me about HTML5, CSS and JavaScript
- <br>
  📫 How to reach me: ismael7400@gmail.com
 
 About me: Following my dream, I left digital marketing to enter the world of developing 2 years ago and I left Brazil to live with my wife in Argentina.
