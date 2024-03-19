@@ -1,13 +1,20 @@
 # Hi there 👋 I'm Ismael Paiva
-#Full-Stack Developer
-### A brazilian living in Buenos Aires - Argentina
+
+### A brazilian Full-Stack Developer living in Buenos Aires - Argentina
 
 
 🔭 I’m currently looking for a new job
-🌱 I’m currently learning JavaScript, Node.js and React
+🌱 I’m currently learning JavaScript, Node.js and React at the Alura Plataform
 👯 I’m looking to collaborate on projects with startups and international companies
 💬 Ask me about HTML5, CSS and JavaScript
 📫 How to reach me: ismael7400@gmail.com
+
+About me: Following my dream, I left digital marketing to enter the world of developing 2 years ago and I left Brazil to live with my wife in Argentina.
+
+
+
+            <i class="devicon-html5-plain colored"></i>
+          
 <!--
 **ismapaiva/ismapaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
