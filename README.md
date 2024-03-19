@@ -11,7 +11,7 @@
 
 About me: Following my dream, I left digital marketing to enter the world of developing 2 years ago and I left Brazil to live with my wife in Argentina.
 
-##Languages and Tools:
+## Languages and Tools:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
           
           
