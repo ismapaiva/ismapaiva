@@ -13,7 +13,7 @@ About me: Following my dream, I left digital marketing to enter the world of dev
 
 ## Conect with Me
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width='10%'/>
+<img href='google.com'  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width='10%'/>
           
 
 ## Languages and Tools:
