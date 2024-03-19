@@ -4,7 +4,7 @@
 
 
 🔭 I’m currently looking for a new job
-🌱 I’m currently learning JavaScript, Node.js and React at the Alura Plataform
+🌱 I’m currently learning JavaScript, Node.js, React and Svelte at the Alura Plataform
 👯 I’m looking to collaborate on projects with startups and international companies
 💬 Ask me about HTML5, CSS and JavaScript
 📫 How to reach me: ismael7400@gmail.com
@@ -12,7 +12,8 @@
 About me: Following my dream, I left digital marketing to enter the world of developing 2 years ago and I left Brazil to live with my wife in Argentina.
 
 ## Languages and Tools:
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width='10%' /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width='10%'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width='10%' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width='10%' /> <img width='10%' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width='10%' /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width='10%' />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width='10%' /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width='10%'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width='10%' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width='10%' /> <img width='10%' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width='10%' /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width='10%'/>
+          
           
           
           
